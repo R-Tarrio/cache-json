@@ -1,5 +1,5 @@
 {
-    "name": "vendor/cache-json",
+    "name": "rtcachejson/cache-json",
     "description": "Libreria encargada de generar archivos cache",
     "type": "library",
     "authors": [
