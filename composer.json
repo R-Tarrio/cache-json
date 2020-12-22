@@ -1,0 +1,17 @@
+{
+    "name": "vendor/cache-json",
+    "description": "Libreria encargada de generar archivos cache",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rodrigo Tarrio",
+            "email": "rodrigotarrio2@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "cacheJson\\cacheJson\\": "src/"
+        }
+    }
+}
